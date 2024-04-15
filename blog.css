@@ -1,0 +1,13 @@
+.addingList{
+    /* height:100vh; */
+    width:400px;
+    display:flex;
+    flex-direction:column;
+}
+.add, .return, .home{
+    width:20%;
+}
+#controls{
+    display:flex;
+    gap:20px;
+}
