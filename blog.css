@@ -11,3 +11,13 @@
     display:flex;
     gap:20px;
 }
+.blogs{
+    display:flex;
+    flex-wrap:wrap;
+    gap:20px;
+}
+.parent,.super{
+    display:flex;
+    flex-direction:column;
+    /* display:block */
+}
